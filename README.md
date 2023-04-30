@@ -1,2 +1,2 @@
-# TopScholars
+# TopScholars by Sparsh Goyal
  
